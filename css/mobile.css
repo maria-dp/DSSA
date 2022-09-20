@@ -51,9 +51,9 @@ main{
     margin:0 10px
 }
 footer{
-    background: rgba(0,0,0,0.8);
-    margin-top: 40px;
-    padding:40px;
+    background: rgba(121, 2, 2, 0.8);
+    margin-top: 20px;
+    padding:20px;
 }
 footer > div > p{
     color:#fff;
