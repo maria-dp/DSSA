@@ -5,10 +5,10 @@ body{
     margin: 0; 
 }
 .headerContainer{
-    background: rgba(0,0,0,0.8);
+    background: rgba(121, 2, 2, 0.8);
 }
 header h2{
-    color:#fff;
+    color:rgb(247, 247, 247);
 } 
 .articles{
     display: flex;
