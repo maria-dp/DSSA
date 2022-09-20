@@ -3,7 +3,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     padding:0;
     margin: 0; 
-    background-color: rgba(248, 140, 140, 0.854);
+    background-color: rgba(255, 223, 223, 0.854);
 }
 .headerContainer{
     background: rgba(121, 2, 2, 0.8);
